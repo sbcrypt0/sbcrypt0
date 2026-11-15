@@ -1,7 +1,7 @@
 # Hi, I'm Ethan
 
-I'm a **software developer** and the founder of **[CipherWorx](https://cipherworx.co.uk)**, a web and software agency building websites and tools for small businesses in the UK.
-I mainly work with **TypeScript** and **Next.js**, and also use **C#** and **Python**. Right now I'm focused on **practical AI**: building tools on large language models and learning how they're trained and evaluated.
+I'm a **web developer** and the founder of **[CipherWorx](https://cipherworx.co.uk)**, a small web agency building websites for small businesses in the UK. I'm self-taught and still early on: I'm now learning the back end (**Python**, **Flask** and **SQL**) and building small AI tools along the way.
+I'm looking for a **degree apprenticeship** where I can learn properly, with structure and mentorship, while doing useful work.
 
 ---
 
@@ -13,20 +13,19 @@ I mainly work with **TypeScript** and **Next.js**, and also use **C#** and **Pyt
 
 ---
 
-## Tech Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+## What I use
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?logo=claude&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white)
+
+## Learning now
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ---
 
