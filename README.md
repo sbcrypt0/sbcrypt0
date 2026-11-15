@@ -1,7 +1,7 @@
 # Hi, I'm Ethan
 
 I'm a **web developer** and the founder of **[CipherWorx](https://cipherworx.co.uk)**, a small web agency building websites for small businesses in the UK. I'm self-taught and still early on: I'm now learning the back end (**Python**, **Flask** and **SQL**) and building small AI tools along the way.
-I'm looking for a **degree apprenticeship** where I can learn properly, with structure and mentorship, while doing useful work.
+I'm looking for **employment** where I can learn properly, with structure and mentorship, while doing useful work.
 
 ---
 
